@@ -1,0 +1,71 @@
+{
+    "products":[
+        {            
+        "_id":"art1",
+        "title":"Drem Theater - A Change of Seasons",
+        "image":"/images/d1.png",
+        "descripcion":"Cassette en Excelentes condiciones",
+        "precio":199,
+        "availableSizes": ["KCT"]
+        
+        },
+
+        {            
+            "_id":"art2",
+            "title":"Steve Vai - Passion and Warfare",
+            "image":"/images/d2.png",
+            "descripcion":"Cassette en Excelentes condiciones",
+            "precio":249.99,
+            "availableSizes": ["KCT"]
+
+            
+            },
+            {            
+                "_id":"art3",
+                "title":"Exit 9 - Straight Up!",
+                "image":"/images/d3.png",
+                "descripcion":"Disco Raro LP",
+                "precio":1111.99,
+                "availableSizes": [ "LP"]
+              
+                },
+                {            
+                    "_id":"art4",
+                    "title":"BB King Live at the Regal",
+                    "image":"/images/d4.png",
+                    "descripcion":"Excelentes condiciones ",
+                    "precio":999.99,
+                    "availableSizes": [ "LP"]
+                   
+                    },
+                    {            
+                        "_id":"art5",
+                        "title":"The Who Sings My Generation",
+                        "image":"/images/d5.png",
+                        "descripcion":"1966 1ra Edicion USA",
+                        "precio":1699.99,
+                        "availableSizes": ["LP"]
+                       
+                        },
+                        {            
+                            "_id":"art6",
+                            "title":"Elvis Presley Indescribably BLue ",
+                            "image":"/images/d6.png",
+                            "descripcion":"Difícil de conseguir",
+                            "precio":599.99,
+                            "availableSizes": ["45"]
+                           
+                         },
+                         {            
+                            "_id":"art7",
+                            "title":"Yngwie Malmsteen - Rising Force",
+                            "image":"/images/d7.png",
+                            "descripcion":"Cassette en Excelentes Condiciones",
+                            "precio":199.99,
+                            "availableSizes": ["KCT"]
+                           
+                         }
+                        
+
+    ]
+}
